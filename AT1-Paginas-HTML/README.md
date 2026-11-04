@@ -1,34 +1,35 @@
-# 🎬 Nome do Projeto
+# 🎮 Game Zone
 
 ## 📝 Descrição do Projeto
 
-Este projeto consiste em um motor de recomendação inteligente que utiliza técnicas de filtragem colaborativa e baseada em conteúdo. O objetivo principal é mitigar a "paralisia de escolha", oferecendo aos usuários sugestões personalizadas com base em seu histórico de visualização e preferências de gênero.
+O Game Zone é um site dedicado ao mundo dos games, trazendo informações sobre jogos, notícias e produtos para os apaixonados por videogames. O objetivo principal é apresentar conteúdos relacionados ao universo gamer de maneira organizada, visual e acessível.
 
-Desenvolvido como parte do curso de **Análise e Desenvolvimento de Sistemas (ADS) – UNICID (2026)**, o sistema processa grandes volumes de dados (datasets de filmes e avaliações) para identificar padrões de comportamento e similaridades entre títulos, utilizando algoritmos de aprendizado de máquina para prever a nota que um usuário daria a um filme ainda não assistido.
+Desenvolvido como parte do curso de **Análise e Desenvolvimento de Sistemas (ADS) – UNICID (2026)**, o projeto apresenta jogos populares, como Grand Theft Auto V, Red Dead Redemption 2 e Resident Evil 4, com descrições e imagens para proporcionar uma experiência agradável aos visitantes.
 
 ## 🚀 Tecnologias Utilizadas
 
-* **Linguagem:** HTML5, CSS e JavaScript
-* **Bibliotecas:** Bootstrap
+* **Linguagem:** HTML5 e JavaScript
+* **Estilização:** CSS
 * **Ferramentas:** VSCode
-* **Modelo de IA:** Gemini
+* **Modelo de IA:** ChatGPT / Gemini
 
 ## 📊 Resultados e Aprendizados
 
-O projeto alcançou resultados sólidos em ambiente de teste, demonstrando a eficácia do modelo híbrido.
+O projeto permitiu desenvolver um site sobre o universo dos games, organizando informações e imagens de diferentes jogos.
 
-* **O modelo atingiu 92% de acurácia** nos testes de validação.
-* **Redução de Ruído:** Aprendi a aplicar técnicas de limpeza e normalização de dados para melhorar a performance dos algoritmos.
-* **Visualização de Clusters:** Implementei gráficos que mostram como o sistema agrupa filmes por afinidade.
+* **Desenvolvimento de Páginas:** Aprendi a criar páginas HTML com informações organizadas sobre jogos.
+* **Estilização Visual:** Aprendi a utilizar CSS para personalizar cores, imagens, fontes e elementos do site.
+* **Organização de Conteúdo:** Aprendi a estruturar informações e imagens para facilitar a navegação dos usuários.
+* **Desenvolvimento Web:** Aprimorei meus conhecimentos em HTML, CSS e JavaScript durante a criação do projeto.
 
 ## 🧠 Declaração de Uso Ético da IA
 
-Este projeto utilizou inteligência artificial (Gemini e ChatGPT) estritamente como ferramentas de suporte tecnológico para auxiliar na estruturação inicial do HTML, desenvolvimento e depuração de funções em JavaScript. Todo o código gerado foi revisado, testado e compreendido por mim, garantindo minha responsabilidade integral sobre a autoria final, integridade e funcionamento da aplicação.
+Este projeto utilizou inteligência artificial (ChatGPT e Gemini) estritamente como ferramentas de suporte tecnológico para auxiliar na estruturação do HTML, estilização com CSS e desenvolvimento de funcionalidades em JavaScript. Todo o código gerado foi revisado, testado e compreendido por mim, garantindo minha responsabilidade integral sobre a autoria final, integridade e funcionamento da aplicação.
 
 ## 💻 Deploy do projeto
 
-[Clique para acessar](https://seu-usuario.github.io/xxxxxxxxx/)
+[Clique para acessar](https://diogocora2008-blip.github.io/entrega/)
 
 ---
 
-[Voltar ao início](https://github.com/seu-usuario/portfolio-usuario)
+[Voltar ao início](https://github.com/diogocora2008-blip)
