@@ -9,17 +9,17 @@
 
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
 
-[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](LINK_DO_PDF_OU_SITE)
+[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](LINK_DO_SEU_CURRICULO)
 
 ---
 
-### 👨‍💻 Sobre
+### 󰞵 Sobre
 
-Atualmente cursando o 1º semestre de Análise e Desenvolvimento de Sistemas (ADS) na Universidade Cidade de São Paulo (UNICID). Sou interessado em resolver problemas através da tecnologia e possuo foco em Desenvolvimento de Software.
+Atualmente cursando Análise e Desenvolvimento de Sistemas (ADS) na Universidade Cidade de São Paulo (UNICID). Sou interessado em resolver problemas através da tecnologia e possuo foco em desenvolvimento de software e desenvolvimento web.
 
-* **Habilidades Técnicas:** Python, HTML, CSS, JavaScript, Bootstrap e SQL.
-* **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
-* **Experiência/Projetos Relevantes:** Desenvolvimento de projetos acadêmicos envolvendo criação de sites, calculadora de IMC, Bootstrap e desenvolvimento front-end com inteligência artificial.
+* **Habilidades Técnicas:** HTML5, CSS3, JavaScript, Python, Bootstrap e Git.
+* **Habilidades Socioemocionais:** Trabalho em equipe, comunicação, organização e pensamento crítico.
+* **Experiência/Projetos Relevantes:** Desenvolvimento de projetos acadêmicos envolvendo criação de páginas web, calculadora de IMC com JavaScript, sites com Bootstrap e utilização de inteligência artificial como apoio ao desenvolvimento.
 
 ---
 
@@ -27,23 +27,26 @@ Atualmente cursando o 1º semestre de Análise e Desenvolvimento de Sistemas (AD
 
 #### 💻 Linguagens e Tecnologias
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 #### 🗄 Banco de Dados
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### 🤖 Inteligência Artificial & Ciência de Dados
 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
 ---
 
 ### 📂 Portfólio de Projetos
 
-#### 👨‍💻 Desenvolvimento Front-End para Web
+#### 󰳕 Desenvolvimento Front-End para Web
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
@@ -51,13 +54,13 @@ Atualmente cursando o 1º semestre de Análise e Desenvolvimento de Sistemas (AD
 | **Deploy de Site** | Publicação de site no GitHub Pages. | [Ver Projeto](./AT2-Deploy-de-Site/) |
 | **Calculadora de IMC** | Desenvolvimento de uma calculadora de IMC com JavaScript. | [Ver Projeto](./AT3-Calculadora-IMC/) |
 | **Site com Bootstrap** | Aplicação do Bootstrap para o desenvolvimento de um site com múltiplas páginas. | [Ver Projeto](./AT4-Site-Multi-Paginas-Bootstrap/) |
-| **Desenvolvimento com IA** | Copilotando o desenvolvimento front-end com IA. | [Ver Projeto](./AT5-Front-End-Copilotado-com-IA/) |
+| **Desenvolvimento com IA** | Utilização de inteligência artificial como apoio ao desenvolvimento front-end. | [Ver Projeto](./AT5-Front-End-Copilotado-com-IA/) |
 
 #### 🗃 Modelagem de Banco de Dados
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Nome do projeto** | Documento de Requisitos, Modelagem ER e Scripts SQL. | [Ver Projeto](./projeto-banco-dados/) |
+| **Projeto de Banco de Dados** | Documento de Requisitos, Modelagem ER e Scripts SQL. | [Ver Projeto](./projeto-banco-dados/) |
 
 ---
 
@@ -66,4 +69,4 @@ Atualmente cursando o 1º semestre de Análise e Desenvolvimento de Sistemas (AD
 Abaixo, a organização deste repositório para facilitar a navegação:
 
 - `root/`: Arquivo de apresentação principal.
-- `/projeto-nome/`: Pasta contendo o código-fonte, documentação e o
+- `/projeto-nome/`: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
