@@ -1,4 +1,4 @@
-# Diogo Nunes da Costa Cora
+# Diogo Nunes da Costa Corá
 > Estudante de Análise e Desenvolvimento de Sistemas (ADS) – UNICID
 
 ---
