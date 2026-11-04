@@ -1,5 +1,5 @@
-# [Diogo Corá]
-> Estudante de [Nome do Curso - ex: Ciência da Computação]
+# DIOGO CORÁ
+> Estudante de Ánalise e Desenvolvimento de Sistema
 ---
 ### 📫 Contato & Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-
@@ -10,10 +10,10 @@ badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-cora-b66
 e-badge&logo=read-the-docs&logoColor=white)](LINK_DO_PDF_OU_SITE)
 ---
 ### 󰞵 Sobre
-Atualmente cursando o [Segundo] período de [Ánalise e Desenvolvimento de Sistema] na [UNICID]. Sou apaixonado por resolver problemas através da
-tecnologia e possuo foco em [Desenvolvimento
-Backend / Análise de Dados].
-* **Habilidades Técnicas:** [Python, Java, SQL, AWS, Docker].
+Atualmente cursando o Segundo período de Ánalise e Desenvolvimento de Sistema na UNICID. Sou apaixonado por resolver problemas através da
+tecnologia e possuo foco em Desenvolvimento
+Backend / Análise de Dados.
+* **Habilidades Técnicas:** Python, Java, SQL, AWS, Docker.
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação
 assertiva e pensamento crítico.
 ---
