@@ -1,24 +1,21 @@
-# [Seu Nome Completo]
+# [Diogo Corá]
 > Estudante de [Nome do Curso - ex: Ciência da Computação]
 ---
 ### 📫 Contato & Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-
-badge&logo=linkedin&logoColor=white)](LINK_DO_SEU_LINKEDIN)
+badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-cora-b664523a6/)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge
 &logo=gmail&logoColor=white)](mailto:seu-email-profissional@email.com)
 [![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-th
 e-badge&logo=read-the-docs&logoColor=white)](LINK_DO_PDF_OU_SITE)
 ---
 ### 󰞵 Sobre
-Atualmente cursando o [Xº] período de [Nome do Curso] na [Nome da
-Instituição]. Sou apaixonado por resolver problemas através da
-tecnologia e possuo foco em [Área de Interesse - ex: Desenvolvimento
+Atualmente cursando o [Segundo] período de [Ánalise e Desenvolvimento de Sistema] na [UNICID]. Sou apaixonado por resolver problemas através da
+tecnologia e possuo foco em [Desenvolvimento
 Backend / Análise de Dados].
-* **Habilidades Técnicas:** [Ex: Python, Java, SQL, AWS, Docker].
+* **Habilidades Técnicas:** [Python, Java, SQL, AWS, Docker].
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação
 assertiva e pensamento crítico.
-* **Experiência/Projetos Relevantes:** Atuei em [Projeto de Iniciação
-Científica/Estágio] onde desenvolvi [resultado principal].
 ---
 ### 🛠 Minhas Ferramentas Favoritas
 #### 💻 Linguagens e Tecnologias
