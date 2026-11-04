@@ -27,7 +27,7 @@ Este projeto utilizou inteligência artificial (ChatGPT e Gemini) estritamente c
 
 ## 💻 Deploy do projeto
 
-[Clique para acessar](file:///C:/Users/DIOGOCORA/Documents/Calculadora%20IMC/index.html)
+[Clique para acessar](https://diogocora2008-blip.github.io/calculadoraIMC/)
 
 ---
 
