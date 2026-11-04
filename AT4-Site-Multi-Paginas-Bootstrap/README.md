@@ -30,7 +30,7 @@ Este projeto utilizou inteligência artificial (ChatGPT e Gemini) como ferrament
 
 ## 💻 Deploy do projeto
 
-[Clique para acessar](https://diogocora2008-blip.github.io/entrega/)
+[Clique para acessar](https://diogocora2008-blip.github.io/historia-dos-videogames/index.html)
 
 ---
 
