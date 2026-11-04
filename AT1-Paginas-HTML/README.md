@@ -4,27 +4,27 @@
 
 O Game Zone é um site dedicado ao mundo dos games, trazendo informações sobre jogos, notícias e produtos para os apaixonados por videogames. O objetivo principal é apresentar conteúdos relacionados ao universo gamer de maneira organizada, visual e acessível.
 
-Desenvolvido como parte do curso de **Análise e Desenvolvimento de Sistemas (ADS) – UNICID (2026)**, o projeto apresenta jogos populares, como Grand Theft Auto V, Red Dead Redemption 2 e Resident Evil 4, com descrições e imagens para proporcionar uma experiência agradável aos visitantes.
+Desenvolvido como parte do curso de **Análise e Desenvolvimento de Sistemas (ADS) – UNICID (2026)**, o projeto apresenta jogos populares, como Grand Theft Auto V, Red Dead Redemption 2 e Resident Evil 4, utilizando imagens, títulos e descrições para apresentar cada jogo aos visitantes.
 
 ## 🚀 Tecnologias Utilizadas
 
 * **Linguagem:** HTML5 e JavaScript
 * **Estilização:** CSS
 * **Ferramentas:** VSCode
-* **Modelo de IA:** ChatGPT / Gemini
+* **Plataforma:** GitHub
 
 ## 📊 Resultados e Aprendizados
 
-O projeto permitiu desenvolver um site sobre o universo dos games, organizando informações e imagens de diferentes jogos.
+O projeto permitiu desenvolver um site sobre o universo dos games, aplicando conhecimentos de desenvolvimento web.
 
-* **Desenvolvimento de Páginas:** Aprendi a criar páginas HTML com informações organizadas sobre jogos.
-* **Estilização Visual:** Aprendi a utilizar CSS para personalizar cores, imagens, fontes e elementos do site.
-* **Organização de Conteúdo:** Aprendi a estruturar informações e imagens para facilitar a navegação dos usuários.
-* **Desenvolvimento Web:** Aprimorei meus conhecimentos em HTML, CSS e JavaScript durante a criação do projeto.
+* **Estrutura HTML:** Aprendi a organizar textos, títulos, imagens e conteúdos nas páginas.
+* **Estilização CSS:** Aprendi a personalizar cores, fontes, espaçamentos e elementos visuais.
+* **Organização de Conteúdo:** Aprendi a apresentar informações sobre diferentes jogos de maneira organizada.
+* **Desenvolvimento Web:** Aprimorei meus conhecimentos em HTML, CSS e JavaScript durante a criação do site.
 
 ## 🧠 Declaração de Uso Ético da IA
 
-Este projeto utilizou inteligência artificial (ChatGPT e Gemini) estritamente como ferramentas de suporte tecnológico para auxiliar na estruturação do HTML, estilização com CSS e desenvolvimento de funcionalidades em JavaScript. Todo o código gerado foi revisado, testado e compreendido por mim, garantindo minha responsabilidade integral sobre a autoria final, integridade e funcionamento da aplicação.
+Este projeto utilizou inteligência artificial (ChatGPT e Gemini) como ferramentas de suporte tecnológico para auxiliar na estruturação do HTML, estilização com CSS e resolução de possíveis erros durante o desenvolvimento. Todo o código foi revisado e testado, garantindo minha responsabilidade sobre o funcionamento final do projeto.
 
 ## 💻 Deploy do projeto
 
