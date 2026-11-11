@@ -31,7 +31,8 @@ Este projeto utilizou inteligência artificial (ChatGPT e Gemini) como ferrament
 
 ## 💻 Deploy do projeto
 
-[https://diogocora2008-blip.github.io/AT--Front-End-e-Copilotagem-com-IA/]
+[Clique para acessar](https://diogocora2008-blip.github.io/AT--Front-End-e-Copilotagem-com-IA/Fontes.html)
+
 
 ---
 
